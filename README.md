@@ -1,8 +1,8 @@
-# Roman Jordan Portfolio :man_technologist:
+# Roman Jordan :man_technologist:
 
 ## About Me :wave:
 
-Hi there! I'm John Doe, a software developer with a passion for creating awesome applications that make people's lives easier.
+Hi there! I'm Roman Jordan, a software developer with a passion for creating awesome applications that make people's lives easier.
 
 ## Skills :computer:
 
